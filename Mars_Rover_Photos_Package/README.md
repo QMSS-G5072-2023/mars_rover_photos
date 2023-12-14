@@ -1,11 +1,11 @@
-# prime_pl2889
+# Mars Rover Photo package
 
-It is about prime function for mds hw7
+It is about NASA Mars Rover Photo package API
 
 ## Installation
 
 ```bash
-$ pip install prime_pl2889
+$ pip Mars Rover Photo package
 ```
 
 ## Usage
@@ -18,8 +18,8 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`prime_pl2889` was created by Judyli. It is licensed under the terms of the MIT license.
+`Mars Rover Photo package` was created by Judyli. It is licensed under the terms of the MIT license.
 
 ## Credits
 
-`prime_pl2889` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+`Mars Rover Photo package` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
