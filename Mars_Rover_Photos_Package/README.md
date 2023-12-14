@@ -5,7 +5,7 @@ It is about NASA Mars Rover Photo package API
 ## Installation
 
 ```bash
-$ pip Mars Rover Photo package
+$ pip Mars_Rover_Photo_package
 ```
 
 ## Usage
@@ -18,8 +18,8 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`Mars Rover Photo package` was created by Judyli. It is licensed under the terms of the MIT license.
+`Mars_Rover_Photo_package` was created by Judyli. It is licensed under the terms of the MIT license.
 
 ## Credits
 
-`Mars Rover Photo package` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+`Mars_Rover_Photo_package`` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
